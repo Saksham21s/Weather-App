@@ -63,10 +63,6 @@ To use the app, type a name of the city and click on search/press Enter or else 
 
 <br />
 
-## Demo
-
-https://user-images.githubusercontent.com/91532881/166426542-b271be2e-e7d9-4b3c-bfe7-5e9e51e26be4.mp4
-
 
 <br/>
 
@@ -83,13 +79,13 @@ This project was built using React v 17.0.2, Redux v 4.1.2, Chakra UI, CSS and R
 ### Setup
 
 
-The project repository can be found in [GitHub link](https://github.com/m-sehrawat/Weather-App) or just clone the project using this command. 
+The project repository can be found in [GitHub link](https://github.com/Saksham21s/Weather-App/) or just clone the project using this command. 
 
 
 ```
 Using HTTPS
 
-# git clone  https://github.com/m-sehrawat/Weather-App.git
+# git clone  https://github.com/Saksham21s/Weather-App/.git
 ```
 
 + Open terminal on your workspace with
@@ -142,16 +138,6 @@ npm run dev
 
 <br/>
 
-
-
-## Contact
-
-If you want to contact me, you can reach me through below handles.
-
-[![linkedin](https://img.shields.io/badge/Mohit_Sehrawat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-sehrawat/)
-[![Twitter](https://img.shields.io/badge/Mohit_Sehrawat-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/m-sehrawat/)
-
-© 2022 Mohit Sehrawat
 
 
 
